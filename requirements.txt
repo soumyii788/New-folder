@@ -1,0 +1,16 @@
+Django>=4.2,<5.0
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+redis
+celery
+django-redis
+channels
+channels-redis
+daphne
+gunicorn
+python-dotenv
+django-cors-headers
+drf-yasg
+Pillow
+uvicorn[standard]
